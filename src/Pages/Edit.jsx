@@ -22,7 +22,7 @@ const Edit = ({ id }) => {
     phone: "",
     website: "",
     company: {
-      name: "",
+      companyName: "",
       catchPhrase: "",
       bs: "",
     },
